@@ -66,7 +66,7 @@ DevOps-Projeto02/
 ![EC2 Dashboard](./imagens/Captura%20de%20tela%20de%202025-08-19%2020-05-22.png)
 
 ### 💻 Container em Execução
-![Container na EC2](./imagens/Captura de tela de 2025-08-19 20-29-16.png)
+![Container na EC2](./imagens/Captura%20de%20tela%20de%202025-08-19%2020-29-16.png)
 
 ---
 
